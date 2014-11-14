@@ -3,7 +3,7 @@
   "author": "Call-em-all Engineering Team",
   "version": "0.2.2",
   "description": "Material Design UI components built with React",
-  "main": "./src/index.js",
+  "main": "index.js",
   "keywords": [
     "react",
     "react-component",
